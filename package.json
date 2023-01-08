@@ -1,0 +1,24 @@
+{
+  "name": "leetcodechallenges",
+  "version": "1.0.0",
+  "description": "Leet Code Challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hossein13m/leetCodeChallenges.git"
+  },
+  "keywords": [
+    "leetCode",
+    "javaScript",
+    "typeScript"
+  ],
+  "author": "Hossein Mousavi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hossein13m/leetCodeChallenges/issues"
+  },
+  "homepage": "https://github.com/hossein13m/leetCodeChallenges#readme"
+}
