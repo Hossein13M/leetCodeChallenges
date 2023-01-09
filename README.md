@@ -1,7 +1,8 @@
 # LeetCode Challenges Solved By JavaScript
 
-<img title="a title" alt="Alt text" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg">
+<img title="a title" alt="Alt text" src="https://cdn.cdo.mit.edu/wp-content/uploads/sites/67/2021/01/0_zuhXdNAIUoxEem4-.png">
 
-# You can find answers written in JS and their explanation in their each folder's readme file.
+### You can find answers written in JS and their explanation in their each folder's readme file.
 
-# If you are enjoying this repo, please give it a star ⭐
+
+## If you are enjoying this repo, please give it a star ⭐
