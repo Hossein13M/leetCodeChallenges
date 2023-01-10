@@ -15,4 +15,4 @@ function maxArea(height) {
         height[leftIndex] < height[rightIndex] ? leftIndex++ : rightIndex--;
     }
     return maximumNumber;
-} 
+}
