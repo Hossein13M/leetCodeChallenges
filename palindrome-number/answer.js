@@ -1,3 +1,8 @@
+/*
+    Link to leet code challenge:
+    https://leetcode.com/problems/palindrome-number
+*/
+
 function isPalindrome(number) {
     if (number < 0) return false;
     else {
